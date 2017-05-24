@@ -29,8 +29,9 @@
   },
   "homepage": "https://github.com/IonicaBizau/cheerio-req#readme",
   "dependencies": {
-    "cheerio": "^0.20.0",
-    "tinyreq": "^3.0.1"
+    "cheerio": "^0.22.0",
+    "tinyreq": "^3.0.1",
+    "cheerio-advanced-selectors": "git://github.com/tangnv/cheerio-advanced-selectors.git#master"
   },
   "files": [
     "bin/",
